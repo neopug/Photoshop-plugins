@@ -17,3 +17,5 @@
 <h2>Manuals</h2>
 <a href="https://github.com/agragregra/wordpress-landing-page-lesson">How to create wordpress theme</a> - video manual with sources.<br>
 <img src="https://raw.githubusercontent.com/agragregra/wordpress-landing-page-lesson/master/_mockup.jpg"><br>
+<h2>Great sites</h2>
+<a href="https://www.pactcoffee.com/">PacToCoffee</a> - intresting landing page.<br>
