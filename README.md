@@ -11,7 +11,7 @@
 <a href="http://imakewebthings.com/waypoints/">Waypoints</a> - triggers for scroll.<br>
 <a href="http://daneden.github.io/animate.css/">Animate.CSS</a> - cool js/css effects for text.<br>
 <a href="https://mixitup.kunkalabs.com/">MixItUp</a> - animated effects for sorting and arraging<br>
-<a href="http://demosthenes.info/blog/425/Card-Fan-CSS3-Gallery-Reveal-In-Four-Lines-of-Code">Card Fun</a> <a href="http://codepen.io/dudleystorey/pen/mapyf">[CP]</> - Preaty CSS3 Gallery.<br>
+<a href="http://demosthenes.info/blog/425/Card-Fan-CSS3-Gallery-Reveal-In-Four-Lines-of-Code">Card Fun</a> <a href="http://codepen.io/dudleystorey/pen/mapyf">[CP]</a> - Preaty CSS3 Gallery.<br>
 <h2>Cliparts</h2>
 <a href="http://linea.io/">Linea</a> - Preaty light icons set.<br>
 <a href="https://stocksnap.io/">Stocksnap</a> - Free photo stock.<br>
