@@ -16,6 +16,9 @@
 <a href="http://demosthenes.info/blog/627/Make-A-Responsive-CSS3-Image-Slider">CSS3 Slider</a> <a href="http://codepen.io/dudleystorey/pen/ehKpi">[CP]</a> - Responsible CSS3 slider.<br>
 <a href="http://demosthenes.info/blog/871/CSS-Slidy-20-Captions--more">CSS Slidy<a/> <a href="http://codepen.io/dudleystorey/pen/AgtbD">[CP]</a>- Responsible CSS3 slider with caption</a><br>
 <a href="http://demosthenes.info/blog/726/CSS-3D-Image-Flip-Gallery-With-Dynamic-Shadows">3D Flip</a> <a href="http://codepen.io/dudleystorey/pen/KdAev">[CP]</a> - 3D Flip CSS3 image gallery.<br>
+<a href="http://demosthenes.info/blog/842/A-Mobile-Ready-Before-And-After-Image-Comparison-UI">Before/After</a> <a href="http://codepen.io/dudleystorey/pen/JDphy">[CP]</a> - Before and after image comparison.<br>
+<a href="http://demosthenes.info/blog/844/Easy-Masonry-Layout-With-Flexbox">Easy Masonry</a> <a href="http://codepen.io/dudleystorey/pen/eAqzk">[CP]</a> - CSS gallery with highlighting<br>
+<a href="http://demosthenes.info/blog/761/Create-A-Random-Ken-Burns-Effect-For-Images-With-CSS-amp-JavaScript">Ken Burns effect</a> <a href="http://codepen.io/dudleystorey/pen/kaBiL">[CP]</a> - CSS/JS script for Ken Burns Effect.<br>
 <h2>Cliparts</h2>
 <a href="http://linea.io/">Linea</a> - Preaty light icons set.<br>
 <a href="https://stocksnap.io/">Stocksnap</a> - Free photo stock.<br>
