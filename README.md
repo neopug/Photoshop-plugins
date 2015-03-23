@@ -22,6 +22,7 @@
 <h2>Cliparts</h2>
 <a href="http://linea.io/">Linea</a> - Preaty light icons set.<br>
 <a href="https://stocksnap.io/">Stocksnap</a> - Free photo stock.<br>
+<a href="http://www.designyourway.net/blog/resources/free-stock-photos-where-to-get-them-from/">Designuourway</a> - Links to free photo stocks.<br>
 <h2>Manuals</h2>
 <a href="https://github.com/agragregra/wordpress-landing-page-lesson">How to create wordpress theme</a> - video manual with sources.<br>
 <img src="https://raw.githubusercontent.com/agragregra/wordpress-landing-page-lesson/master/_mockup.jpg"><br>
