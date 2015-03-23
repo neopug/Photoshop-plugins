@@ -28,4 +28,4 @@
 <img src="https://raw.githubusercontent.com/agragregra/wordpress-landing-page-lesson/master/_mockup.jpg"><br>
 <h2>Great sites</h2>
 <a href="https://www.pactcoffee.com/">PacToCoffee</a> - intresting landing page.<br>
-<a hreg="http://www.dejurka.ru/web-design/food-web-desgin/">Food sites</a> - good sites about food.<br>
+<a href="http://www.dejurka.ru/web-design/food-web-desgin/">Food sites</a> - good sites about food.<br>
