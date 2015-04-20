@@ -31,6 +31,7 @@
 <a href="https://learn.javascript.ru/tutorial">JS tutorial</a> - good tutorial on JS.<br>
 <a href="http://angular.ru/">AngularJS</a> - russian manual.<br>
 <a href="http://anton.shevchuk.name/jquery-book/">JQuery book</a> - JQuery for beginners.<br>
+<a href="https://htmlacademy.ru/">HTML Academy</a> - html/css/js learning<br>
 <h2>Great sites</h2>
 <a href="https://www.pactcoffee.com/">PacToCoffee</a> - intresting landing page.<br>
 <a href="http://www.dejurka.ru/web-design/food-web-desgin/">Food sites</a> - good sites about food.<br>
