@@ -28,6 +28,8 @@
 <img src="https://raw.githubusercontent.com/agragregra/wordpress-landing-page-lesson/master/_mockup.jpg"><br>
 <a href="http://learnxinyminutes.com/">Learn X in Y minutes</a> - short manuals on many languages.<br>
 <a href="http://getjump.github.io/ru-php-the-right-way/">PHP the right way</a> - short documentation on php.<br>
+<a href="https://learn.javascript.ru/tutorial">JS tutorial</a> - good tutorial on JS.<br>
 <h2>Great sites</h2>
 <a href="https://www.pactcoffee.com/">PacToCoffee</a> - intresting landing page.<br>
 <a href="http://www.dejurka.ru/web-design/food-web-desgin/">Food sites</a> - good sites about food.<br>
+<a href="http://hello-brand.ru/">Hello brand</a> - intresting portfolio with landings.<br>
