@@ -36,3 +36,5 @@
 <a href="https://www.pactcoffee.com/">PacToCoffee</a> - intresting landing page.<br>
 <a href="http://www.dejurka.ru/web-design/food-web-desgin/">Food sites</a> - good sites about food.<br>
 <a href="http://hello-brand.ru/">Hello brand</a> - intresting portfolio with landings.<br>
+<a href="http://www.awwwards.com/">AWWWAWARDS</a> - The awards for design, creativity and innovation on the Internet.<br>
+<a href="http://www.cssdesignawards.com/">CSS design awards</a> -  an international web awards platform.<br>
